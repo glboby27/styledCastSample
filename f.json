@@ -3,7 +3,7 @@
     {
       "name": "Movies",
       "hls": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/hls/",
-      "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/",
+      "dash": "https://dash.akamaized.net/dash264/TestCases/3a/fraunhofer/heaac_stereo_without_video/ElephantsDream/",
       "mp4": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/",
       "images": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/images/",
       "tracks": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/tracks/",
@@ -19,7 +19,7 @@
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "DesigningForGoogleCast.mpd"
+              "url": "elephants_dream_audio_only_heaac_stereo_sidx.mpd"              
             },
             {
               "type": "mp4",
