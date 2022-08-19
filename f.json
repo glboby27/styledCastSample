@@ -55,7 +55,7 @@
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "GoogleIO-2014-CastingToTheFuture.mpd"
+              "url": "exMPD_BIP_TC1.mpd"
             },
             {
               "type": "mp4",
