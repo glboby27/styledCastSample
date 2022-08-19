@@ -50,17 +50,17 @@
             {
               "type": "hls",
               "mime": "application/x-mpegurl",
-              "url": "GoogleIO-2014-CastingToTheFuture.m3u8"
+              "url": "meridian_b24kbps_rl64_dseOFF_av_heaac_v2.m3u8"
             },
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "exMPD_BIP_TC1.mpd"
+              "url": "meridian_b24kbps_rl64_dseOFF_av_heaac_v2.mpd"
             },
             {
               "type": "mp4",
               "mime": "videos/mp4",
-              "url": "GoogleIO-2014-CastingToTheFuture.mp4"
+              "url": "meridian_b24kbps_rl64_dseOFF_av_heaac_v2.mp4"
             }
           ],
           "thumb": "images/ToTheFuture-480x270.jpg",
