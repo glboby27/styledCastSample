@@ -174,23 +174,23 @@
             {
               "type": "hls",
               "mime": "application/x-mpegurl",
-              "url": "ForBiggerBlazes.m3u8"
+              "url": "multi_audio_type4.m3u8"
             },
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "ForBiggerBlazes.mpd"
+              "url": "multi_audio_type4.mpd"
             },
             {
               "type": "mp4",
               "mime": "videos/mp4",
-              "url": "ForBiggerBlazes.mp4"
+              "url": "multi_audio_type4.mp4"
             }
           ],
           "thumb": "images/ForBiggerBlazes.jpg",
           "image-480x270": "480x270/ForBiggerBlazes.jpg",
           "image-780x1200": "780x1200/Blaze-780x1200.jpg",
-          "title": "For Bigger Blazes",
+          "title": "multi_audio_type4",
           "studio": "Google",
           "duration": 15
         },
