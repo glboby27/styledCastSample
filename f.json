@@ -86,17 +86,17 @@
             {
               "type": "hls",
               "mime": "application/x-mpegurl",
-              "url": "GoogleIO-2014-MakingGoogleCastReadyAppsDiscoverable.m3u8"
+              "url": "mutli_audio.m3u8"
             },
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "GoogleIO-2014-MakingGoogleCastReadyAppsDiscoverable.mpd"
+              "url": "mutli_audio.mpd"
             },
             {
               "type": "mp4",
               "mime": "videos/mp4",
-              "url": "GoogleIO-2014-MakingGoogleCastReadyAppsDiscoverable.mp4"
+              "url": "mutli_audio.mp4"
             }
           ],
           "thumb": "images/MakingGoogleCastReadyAppsDiscoverable-480-270.jpg",
