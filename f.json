@@ -148,23 +148,23 @@
             {
               "type": "hls",
               "mime": "application/x-mpegurl",
-              "url": "ElephantsDream.m3u8"
+              "url": "case5/mutli_audio3.m3u8"
             },
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "ElephantsDream.mpd"
+              "url": "case5/mutli_audio3.mpd"
             },
             {
               "type": "mp4",
               "mime": "videos/mp4",
-              "url": "ElephantsDream.mp4"
+              "url": "case5/mutli_audio3.mp4"
             }
           ],
           "thumb": "images/ElephantsDream.jpg",
           "image-480x270": "480x270/ElephantsDream.jpg",
           "image-780x1200": "780x1200/ElephantsDream-780x1200.jpg",
-          "title": "Elephants Dream",
+          "title": "AAC-2ch + AAC-5.1ch without channel info",
           "studio": "Blender Foundation",
           "duration": 653
         },
