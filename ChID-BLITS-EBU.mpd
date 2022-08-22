@@ -10,6 +10,7 @@
 	minBufferTime="PT1M2.5S">
 	<ProgramInformation>
 	</ProgramInformation>
+	<BaseURL>https://glboby27.github.io/styledCastSample/case0/</BaseURL>
 	<ServiceDescription id="0">
 	</ServiceDescription>
 	<Period id="0" start="PT0.0S">

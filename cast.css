@@ -1,5 +1,5 @@
 .background {
-    background: center no-repeat url(background.png);
+    background: center no-repeat url(spiderman.png);
 }
 
 .logo {
@@ -14,9 +14,9 @@
     background-color: rgb(255, 31, 90);
 }
 
-.splash {
+/*.splash {
     background-image: url(spiderman.png);
-}
+}*/
   
 /*.watermark {
 background-image: url(watermark.png);

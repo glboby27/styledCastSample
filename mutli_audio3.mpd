@@ -10,7 +10,7 @@
 	minBufferTime="PT1M2.5S">
 	<ProgramInformation>
 	</ProgramInformation>
-	<BaseURL>https://glboby27.github.io/styledCastSample/case3/</BaseURL>
+	<BaseURL>https://glboby27.github.io/styledCastSample/case4/</BaseURL>
 	<ServiceDescription id="0">
 	</ServiceDescription>
 	<Period id="0" start="PT0.0S">
@@ -26,7 +26,6 @@
 		</AdaptationSet>
 		<AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="und">
 			<Representation id="1" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="128000" audioSamplingRate="44100">
-				<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
 				<SegmentTemplate timescale="44100" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="1">
 					<SegmentTimeline>
 						<S t="0" d="220160" />
@@ -38,7 +37,6 @@
 		</AdaptationSet>
 		<AdaptationSet id="2" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="und">
 			<Representation id="2" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="341000" audioSamplingRate="44100">
-				<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="6" />
 				<SegmentTemplate timescale="44100" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="1">
 					<SegmentTimeline>
 						<S t="0" d="220160" />
