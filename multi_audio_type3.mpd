@@ -15,7 +15,7 @@
 	</ServiceDescription>
 	<Period id="0" start="PT0.0S">
 		<AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="8/1" maxWidth="800" maxHeight="600" par="4:3" lang="und">
-			<Representation id="0" mimeType="video/mp4" codecs="avc1.64001f" bandwidth="24606" width="800" height="600" sar="1:1">
+			<Representation id="0" mimeType="video/mp4" codecs="avc1.64001f" bandwidth="24593" width="800" height="600" sar="1:1">
 				<SegmentTemplate timescale="16384" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="1">
 					<SegmentTimeline>
 						<S t="0" d="512000" />
@@ -26,6 +26,7 @@
 		</AdaptationSet>
 		<AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="und">
 			<Representation id="1" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="128000" audioSamplingRate="44100">
+				<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
 				<SegmentTemplate timescale="44100" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="1">
 					<SegmentTimeline>
 						<S t="0" d="220160" />
@@ -37,6 +38,7 @@
 		</AdaptationSet>
 		<AdaptationSet id="2" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="und">
 			<Representation id="2" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="341000" audioSamplingRate="44100">
+				<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="6" />
 				<SegmentTemplate timescale="44100" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="1">
 					<SegmentTimeline>
 						<S t="0" d="220160" />
