@@ -86,17 +86,17 @@
             {
               "type": "hls",
               "mime": "application/x-mpegurl",
-              "url": "multi_audio.m3u8"
+              "url": "multi_audio_type1.m3u8"
             },
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "multi_audio.mpd"
+              "url": "multi_audio_type1.mpd"
             },
             {
               "type": "mp4",
               "mime": "videos/mp4",
-              "url": "multi_audio.mp4"
+              "url": "multi_audio_type1.mp4"
             }
           ],
           "thumb": "images/MakingGoogleCastReadyAppsDiscoverable-480-270.jpg",
@@ -122,17 +122,17 @@
             {
               "type": "hls",
               "mime": "application/x-mpegurl",
-              "url": "multi_audio2.m3u8"
+              "url": "multi_audio_type2.m3u8"
             },
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "multi_audio2.mpd"
+              "url": "multi_audio_type2.mpd"
             },
             {
               "type": "mp4",
               "mime": "videos/mp4",
-              "url": "multi_audio2.mp4"
+              "url": "multi_audio_type2.mp4"
             }
           ],
           "thumb": "images/BigBuckBunny.jpg",
@@ -148,17 +148,17 @@
             {
               "type": "hls",
               "mime": "application/x-mpegurl",
-              "url": "multi_audio3.m3u8"
+              "url": "multi_audio_type3.m3u8"
             },
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "multi_audio3.mpd"
+              "url": "multi_audio_type3.mpd"
             },
             {
               "type": "mp4",
               "mime": "videos/mp4",
-              "url": "multi_audio3.mp4"
+              "url": "multi_audio_type3.mp4"
             }
           ],
           "thumb": "images/ElephantsDream.jpg",
