@@ -226,23 +226,23 @@
             {
               "type": "hls",
               "mime": "application/x-mpegurl",
-              "url": "ForBiggerFun.m3u8"
+              "url": "Amaze-Dolby-thedigitaltheater.m3u8"
             },
             {
               "type": "dash",
               "mime": "application/dash+xml",
-              "url": "ForBiggerFun.mpd"
+              "url": "Amaze-Dolby-thedigitaltheater.mpd"
             },
             {
               "type": "mp4",
               "mime": "videos/mp4",
-              "url": "ForBiggerFun.mp4"
+              "url": "Amaze-Dolby-thedigitaltheater.mp4"
             }
           ],
           "thumb": "images/ForBiggerFun.jpg",
           "image-480x270": "480x270/ForBiggerFun.jpg",
           "image-780x1200": "780x1200/Fun-780x1200.jpg",
-          "title": "For Bigger Fun",
+          "title": "Amaze-Dolby-thedigitaltheater",
           "studio": "Google",
           "duration": 60
         },
